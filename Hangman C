@@ -6,21 +6,6 @@
 #include <time.h>
 #include <string.h>
 
-/*******************************************
-*
-* Code written by Graphix. 
-* More information regarding this code,  other
-* hangman source code and words files
-* can be found on:
-*
-* http://www.hangman.symbolwebdesign.nl 
-*
-* Contact: info@symbolwebdesign.nl
-*
-********************************************/
-
-char fileLoc[500]; // The backup file location
-
 void showLogo() {
       printf("--------------------------------------------\n");
       printf("| #  #   #   #   #  #### #   #   #   #   # |\n");
